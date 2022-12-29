@@ -1,5 +1,7 @@
 # KAOOA_GAME
 
+### Play here: https://praddyumn16.github.io/kaooa_game/
+
 This repository is a 3-D visualization of a game called Kaooa which involves 7 crows and 1 vulture.\
 The game rules and motivation can be read from here: https://www.whatdowedoallday.com/kaooa/
 
